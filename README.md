@@ -1,4 +1,4 @@
-### Git guidelines:
+### 	Git guidelines:
 ```
 1. git clone git@github.com:CollegeBoreal/Promotion.git
 2. cd Promotion
