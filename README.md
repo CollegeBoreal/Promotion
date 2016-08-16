@@ -1,5 +1,5 @@
 ### Git guidelines:
-```
+i```
 1. git clone git@github.com:CollegeBoreal/Promotion.git
 2. cd Promotion
 3. git checkout -b add-feature-A
